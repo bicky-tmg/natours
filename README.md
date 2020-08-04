@@ -1,2 +1,2 @@
-#natours
+Natours
 Learning new CSS features
